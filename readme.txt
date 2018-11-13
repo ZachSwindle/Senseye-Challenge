@@ -19,13 +19,16 @@ demonstratable within the alloted time.
 
 Contents
 
-Within the home folder of this challenge, there are folders titled 'raw_data', 
+Within the home folder, there are folders titled 'raw_data', 
 'processed_data',  and the readme (the one you are reading now!). 
 Contained within the raw_data folder are three files. These files are each an 
 experimental output from a single experiment run on a single participant. 
 These files are labeled with the participant number (participant_1, participant_2,
 etc.). The goal of this challenge is to process those three files into a single 
-dataframe, perform some brief analysis and export the combined frame. 
+dataframe, perform some brief analysis and export the combined frame. The project 
+is also a part of a git repository, which you should use to version control 
+your work and show your progression.
+
 
 
 
@@ -36,6 +39,8 @@ Here's the challenge!
     2. Deal with NAs, outliers, missing data, in any way you see fit (Removing data is fine)
     3. Explore the data and provide a very brief overview (have some analysis comparing the different participants)
     4. Export a single csv with any new coulmns you've added into the processed_data folder
+    5. Along the way, track your progress with git commits!
+    6. When you are finished, zip it up and beam it back to us!
 
 
 
